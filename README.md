@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi and welcome 👋✨
 
-<!--
-**Inaelise/Inaelise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ina Elise and I'm from Norway. I'm a student at Noroff where I'm getting a higher professional degree in Front-end development.
+I've always had an interest in design and tech so why not mix it together? I'm excited to learn new things!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Front-End.
+- 📫 How to reach me: https://www.linkedin.com/in/ina-elise-flom-b55433311/
+- 💾 My latest project: https://github.com/NoroffFEU/FED1-PE1-Inaelise
+- 💕 My hobbies: going to the gym, gaming and crochet.
+- ✨ Fun fact: I have a bachelor's degree in archaeology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|     SKILLS    |
+|---------------|
+|     Figma     |
+|      HTML     |
+|      CSS      |
+|   JavaScript  |
