@@ -14,4 +14,5 @@ I've always had an interest in design and tech so why not mix it together? I'm e
 |     Figma     |
 |      HTML     |
 |      CSS      |
+|  TailwindCSS  |
 |   JavaScript  |
