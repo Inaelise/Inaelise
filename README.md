@@ -1,6 +1,6 @@
 ## Hi and welcome 👋✨
 
-My name is Ina Elise and I'm from Norway. I'm about to graduate from Noroff where I'm getting a higher professional degree in Front-end development.
+My name is Ina Elise and I'm from Norway. I'm just graduated from Noroff with a higher professional degree in Front-end development.
 I've always had an interest in design and tech so why not mix it together? I'm excited to learn new things!
 
 - 📫 How to reach me: [My LinkedIn page](https://www.linkedin.com/in/ina-elise-flom-b55433311/)
